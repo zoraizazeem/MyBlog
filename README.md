@@ -12,9 +12,7 @@ The theme's CSS files live in the `styles` directory. `styles.css` is generated 
 sass --watch styles/styles.scss:styles/styles.css
 ```
 
-### Help
-
-Open an issue here or email [support@buttercms.com](mailto:support@buttercms.com).
+### first commit test
 
 ### License
 
